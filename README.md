@@ -25,8 +25,8 @@ npm start
 3. Set environment variables:
 
 - `PASSWORD`: Authentication password
-- `TARGET_MAC`: MAC address to wake (e.g., B4-2E-99-94-3A-61)
+- `TARGET_MAC`: MAC address to wake (e.g., B4-2E-xx-xx-xx-xx)
 - `TARGET_PORT`: Usually 9
 - `BROADCAST_ADDR`: Usually 255.255.255.255
 
-4. Access: `https://your-railway-url/wake?pw=78224`
+4. Access: `https://your-railway-url/wake?pw=123456`
